@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'bootstrap-sass'
+gem 'autoprefixer-rails'
 gem 'react-rails'
 gem 'showdown-rails'
 gem 'puma'
